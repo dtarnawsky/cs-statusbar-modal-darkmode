@@ -1,0 +1,7 @@
+{
+  "name": "KeyboardNavigation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
